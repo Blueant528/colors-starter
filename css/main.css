@@ -28,7 +28,7 @@ header {
 /*---------- CONTENT AREA ----------*/
 
 .col-3 {
-  width: 100%;
+  width: 50%;
   height: 320px;
   float: left;
 }
@@ -73,11 +73,16 @@ footer {
 
   #column-3 {
     background-color: gold;
+    width: 100%
   }
 
   footer {
-    background-color: ;
+    background-color: white;
   }
+
+  .col-3 {
+    width: 50%;
+
   
 }
 
@@ -90,14 +95,18 @@ footer {
 
   #column-1 {
     background-color: brown;
+    width: 33.3%;
   }
 
   #column-2 {
-    background-color:silver ;
+    background-color:silver;
+    width: 33.3%;
   }
 
   #column-3 {
     background-color:pink;
+    width: 33.3%;
+  }
   }
 
   footer {
